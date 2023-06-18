@@ -10,4 +10,4 @@ Specs on PC:
 - PSU: Corsair CX 450W 80p Bronze
 - Cooler: Redragon Tyr
 
-# Modify date: 18-06-2023 | 17:55 | Time from São Paulo-Brazil
+### Modify date: 18-06-2023 | 17:55 | Time from São Paulo-Brazil
