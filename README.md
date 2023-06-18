@@ -16,6 +16,6 @@ Platform: X99
 Download the pkg file, execute (double click on it), install and finish.
 
 ## What's program used to make pkg?
-[Opencore Packager] (https://github.com/chris1111/OpenCore-Packager)
+Download: [Opencore Packager] (https://github.com/chris1111/OpenCore-Packager).
 
 ### Modify date: 18-06-2023 | 17:55 | Time from São Paulo-Brazil
