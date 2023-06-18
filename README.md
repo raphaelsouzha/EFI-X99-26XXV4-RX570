@@ -7,12 +7,12 @@ Platform: X99
 
 OpenCore Version: 0.9.3
 
-- Motherboard: Huanazhi QD4
-- Processor: Intel Xeon E5 2650v4 2.20 GHz
-- RAM: 16GB 2133 MHz ECC (Chip Micron)
-- GPU: Sapphire RX 570 4GB
-- PSU: Corsair CX 450W 80p Bronze
-- Cooler: Redragon Tyr
+- **Motherboard**: Huanazhi QD4
+- **Processor**: Intel Xeon E5 2650v4 2.20 GHz
+- **RAM**: 16GB 2133 MHz ECC (Chip Micron)
+- **GPU**: Sapphire RX 570 4GB
+- **PSU****: Corsair CX 450W 80p Bronze
+- **Cooler**: Redragon Tyr
 
 ## How to install?
 Download the pkg file, execute (double click on it), install and finish.
