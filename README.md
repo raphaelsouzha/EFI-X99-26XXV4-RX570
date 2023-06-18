@@ -3,7 +3,9 @@ Repo base for X99 platform hackintosh
 
 Platform: X99
 
--- Specs on PC:
+**Specs on PC:**
+
+OpenCore Version: 0.9.3
 
 - Motherboard: Huanazhi QD4
 - Processor: Intel Xeon E5 2650v4 2.20 GHz
